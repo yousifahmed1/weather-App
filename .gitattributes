@@ -1,0 +1,8 @@
+# Set the language for Flutter (Dart)
+*.dart linguist-language=Dart
+
+# Ignore C++ and CMake code (if not part of the main project)
+*.cpp linguist-vendored
+*.h linguist-vendored
+*.cmake linguist-vendored
+CMakeLists.txt linguist-vendored
