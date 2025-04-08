@@ -22,3 +22,6 @@ Bloc (State Management)
 Dio (HTTP Requests)
 
 FreeWeatherAPI (Weather Data)
+
+## 🎥 Demo  
+<video src="assets/ref.mp4" controls width="300"></video>
