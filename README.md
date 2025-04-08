@@ -1,4 +1,4 @@
-#Weather APP
+# Weather App
 
 A sleek and responsive Weather App built with Flutter that fetches real-time weather data for any city worldwide. The app displays temperature, weather conditions, wind speed, and more using the OpenWeatherMap API.
 
