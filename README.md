@@ -24,4 +24,4 @@ Dio (HTTP Requests)
 FreeWeatherAPI (Weather Data)
 
 ## 🎥 Demo  
-![Weather App Demo](assets/ref.gif)
+<img src="assets/ref.gif" width="300" alt="Weather App Demo" />
