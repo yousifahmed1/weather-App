@@ -4,7 +4,9 @@ A sleek and responsive Weather App built with Flutter that fetches real-time wea
 
 
 
-##✨ Features
+
+# ✨ Features
+
 
 Search for weather by city name
 
