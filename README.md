@@ -19,13 +19,10 @@ Dio for efficient API calls
 
 ## 📦 Packages Used
 
-Bloc (State Management)
 
 - [`dio`](https://pub.dev/packages/dio) - For making HTTP requests to fetch news data.
 - [`Bloc`](https://pub.dev/packages/flutter_bloc) - For State Management
 
-
-FreeWeatherAPI (Weather Data)
 
 ## 🎥 App preview  
 <img src="assets/ref.gif" width="300" alt="Weather App Demo" />
